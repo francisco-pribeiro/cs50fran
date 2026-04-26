@@ -33,4 +33,4 @@ Not switching careers. Building the bridge between finance domain expertise and 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Ribeiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscopedras-ribeiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Ribeiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-pedras-ribeiro)
