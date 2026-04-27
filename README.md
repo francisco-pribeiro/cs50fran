@@ -1,6 +1,6 @@
 # Francisco Pedras Ribeiro
 
-**Financial Controller · 42 Lisboa Student · Finance + AI**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=440&lines=Financial+Controller;42+Lisboa+Student;Finance+%2B+AI;Python+%C2%B7+C+%C2%B7+SQL)](https://git.io/typing-svg)
 
 ![42 Lisboa](https://img.shields.io/badge/42_Lisboa-000000?style=flat-square&logo=42&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
@@ -13,6 +13,15 @@
 
 3+ years in financial controlling and FP&A — now adding Python, C, SQL, and AI tools to that foundation at 42 Lisboa.
 Not switching careers. Building the bridge between finance domain expertise and technical execution.
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francisco-pribeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-pribeiro&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
@@ -30,6 +39,14 @@ Not switching careers. Building the bridge between finance domain expertise and 
 ### Certifications
 
 - Associate Data Analyst in SQL — DataCamp, 2025
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francisco-pribeiro/francisco-pribeiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francisco-pribeiro/francisco-pribeiro/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/francisco-pribeiro/francisco-pribeiro/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
